@@ -1,3 +1,6 @@
+//DWI CAHYO NUGROHO
+//QONITA AULYA
+//LIFA
 #include<iostream>
 using namespace std;
 class data{
