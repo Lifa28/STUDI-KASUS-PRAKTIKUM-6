@@ -1,6 +1,6 @@
-//DWI CAHYO NUGROHO
-//QONITA AULYA
-//LIFA
+//DWI CAHYO NUGROHO 2100018405
+//QONITA AULYA 2100018407
+//LIFA 2100018404
 #include<iostream>
 using namespace std;
 class data{
